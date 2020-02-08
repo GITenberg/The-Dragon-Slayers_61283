@@ -1,0 +1,26 @@
+_repo: The-Dragon-Slayers_61283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banta, Frank
+    gutenberg_agent_id: '25711'
+    url: http://www.gutenberg.org/2009/agents/25711
+description: ''
+gutenberg_issued: '2020-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Dragons -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Bureaucracy -- Fiction'
+- GITenberg
+title: The Dragon Slayers
+url: http://www.gutenberg.org/ebooks/61283
